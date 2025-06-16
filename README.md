@@ -1,5 +1,5 @@
 # Conociendo Javascript
-This week trabajaré los temas propuestos:
+Esta semana 
 
 * Variables, Tipos y Operadores
     * let, const, var, tipos primitivos
@@ -15,6 +15,15 @@ This week trabajaré los temas propuestos:
 
 
 ## Sección de practicas
+Pondre en practicas los temas realizando ejercicios de condicionales como: 
+* Verificar si un número es positivo.
+* Verificar si un número es negativo.
+* Comprobar si un número es par
+
+Y ejercios de estructuras de control como : 
+* Uso de if-else
+* switch case
+* if-else   
 
 ## Sección de reflexión
 
